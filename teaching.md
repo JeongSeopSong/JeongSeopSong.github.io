@@ -5,43 +5,38 @@ permalink: /teaching/
 sidebar_link: true
 sidebar_sort_order: 3
 ---
-### Tutor
+### Department of Real Estate, National University of Singapore
 
-RE3703  Advanced Real Estate Economics (Spring 2020)
+AY 2018/2019 Real Estate Finance and Accounting, TA for Prof. Qin Yu
 
-RE2801  Research Methodology in Real Estate (Spring 2019, 2020)
+AY 2019/2020 Principle of Real Estate Economics, TA for Prof. Fu Yuming
 
+AY 2019/2020 Real Estate Finance and Accounting, TA for Prof. Liow Kim Hiang
 
+AY 2019/2020 Corporate Finance for Real Estate, TA for Prof. Liow Kim Hiang
 
-
-### Teaching Assistant
-
-BSE3703 Econometrics for BusinessⅠ(Spring 2019, 2020)
-
-RE6005  Real Estate Economics Seminar (Fall 2019)
-
-RE2102  Real Estate Economics (Fall 2017)
-
-### Teaching Feedbacks
-
->Mr Pan has a great teaching attitude to his students, provided with patience. He took the effort and time to teach us with step–by–step approaches for students like us who do not have any research methodology background. His teaching abilities are appreciated.
-
->Passionate, helpful and very approachable when students require assistance for this non–RE module.
+AY 2020/2021 Corporate Investment in Real Estate, TA for Prof. Liow Kim Hiang
 
 
->He explains the concepts very clearly and he is super helpful and approachable.
+### Students' Feedbacks
+
+**Tutorial for Real Estate Finance and Accounting AY 2018/2019**
+<summary>Strengths (2018/2019)</summary>
+<img src="/assets/img/re1705(accounting).png" />
+
+>patient and knowledgeable.
+
+>Active teacher who thinks for his studentse.
+
+>His explanations are comprehensive and detailed.
  
+ 
+**Tutorial for Principle of Real Estate Economics AY 2019/2020**
+<summary>Strengths (2018/2019)</summary>
+<img src="/assets/img/re1704.png" />
 
->He experimented in different styles of teaching across tutorials and found a more effective learning framework by allowing students to work on the tutorial simultaneously as he walked around the class to provide help 1–to–1.
+>Great and very effective in conveying point across.
 
-<details>
-<summary>Aggregated Text Analytics Report (2018/2019)</summary>
-<img src="/assets/1819.bmp" />
-</details>
+>Effective teaching with clear explanations and slides. explained the misconceptions and mistakes students make in–class.(helped me to learn better).
 
-
-<details>
-<summary>Aggregated Text Analytics Report (2019/2020)</summary>
-<img src="/assets/1920.bmp" />
-
-</details>
+>Mr Jeongseop has great understanding on the subject, and is able to guide us with passion..
