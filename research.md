@@ -20,15 +20,6 @@ sidebar_sort_order: 2
 **Tail risk diversification: Flight from Target** (with Kim Hiang Liow)
 
 
-**How Do Households Respond to Pension Increases? Evidence from Monthly Panel Data in Urban China** (with [Wei Huang](https://sites.google.com/view/huangweipku/home), [Mi Luo](https://sites.google.com/view/mi-luo), and [Hong Song](https://songhong2016.weebly.com/)), under review.
-
-[**Acquiring Land in Cold Winter: Consequences and Possible Explanations**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479523) (with [Yu Qin](https://qinyurain.weebly.com/), Fan Zhang, and [Hongjia Zhu](https://iesr.jnu.edu.cn/2019/0821/c17702a404499/page.htm)), under review.
-
-[**The Sunshine Effects on Solar Loan Repayments**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939686) (with [Yu Qin](https://qinyurain.weebly.com/)), under review.
-
-[**Monetary Restraint and Excess Sensitivity of Consumption**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715597) (with [Ying Fan](https://sites.google.com/view/yingfan)), under review. 
-
-
 ### Publications
 **Interdependence dynamics of corporate equity and public real estate markets**, *Journal of European Real Estate Research*, 2021, forthcoming (with Kim Hiang Liow)
 
