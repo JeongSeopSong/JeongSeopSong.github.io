@@ -6,7 +6,7 @@ layout: page
   {{ content }}
 {% endunless %}
 
-<ul class="posts-list">
+<ul class="posts-list" style="font-family:serif">
   {% assign category = page.category | default: page.title %}
   {% for post in site.categories[category] %}
     <li>
