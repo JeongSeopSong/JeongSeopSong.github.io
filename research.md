@@ -19,7 +19,7 @@ sidebar_sort_order: 2
 
 **Tail risk diversification: Flight from Target** (with Kim Hiang Liow)
 
-
+</br>
 
 ### Publications
 **Interdependence dynamics of corporate equity and public real estate markets**, *Journal of European Real Estate Research*, 2021, forthcoming (with Kim Hiang Liow)
