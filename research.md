@@ -9,13 +9,16 @@ sidebar_sort_order: 2
 
 ### Working Papers
 
-**One-Child Policy, Marriage Distortion, and Welfare Loss** (with [Wei Huang](https://sites.google.com/view/huangweipku/home) and [Yi Zhou](http://www.yizhoudemog.net/research.html)), revision requested at *Review of Economics and Statistics*.
+**Regional Stock Market Uncertainty and Corporate Investment** (**Job Market Paper**)
 
-**Living It Up: Responses of Mortgage Decisions to an Earthquake** (with [Ying Fan](https://sites.google.com/view/yingfan), Mingzhi Mao, and Min Chen), revision requested at *Regional Science and Urban Economics*.
+**Tail Risk Spillovers and Comovements: Evidence from U.S. REIT market** (with Kim Hiang Liow), revision requested at *International Review of Financial Analysis*
 
-**Impacts of Housing Booms on Fertility in China: A Perspective from Homeownership** (with [Hao Yang](http://bs.scu.edu.cn/kuaijixue/202103/6999.html)), revision requested at *International Regional Science Review*.
+**Local Market Uncertainty and Tail Risk in REIT market** (with Kim Hiang Liow)
 
-[**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3803728) (with [Wei Huang](https://sites.google.com/view/huangweipku/home), [Teng Li](https://www.teng-li.com/), and Jinyang Ren), under review. 
+**Industrial Tail Exposure Risk and Cross-Section of Returns in REIT market** (with Kim Hiang Liow), revision requested at *Real Estate Economics*
+
+**Tail risk diversification: Flight from Target** (with Kim Hiang Liow)
+
 
 **How Do Households Respond to Pension Increases? Evidence from Monthly Panel Data in Urban China** (with [Wei Huang](https://sites.google.com/view/huangweipku/home), [Mi Luo](https://sites.google.com/view/mi-luo), and [Hong Song](https://songhong2016.weebly.com/)), under review.
 
@@ -26,13 +29,17 @@ sidebar_sort_order: 2
 [**Monetary Restraint and Excess Sensitivity of Consumption**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715597) (with [Ying Fan](https://sites.google.com/view/yingfan)), under review. 
 
 
-### Work in Progress
-**Human Capital Density, Wage Increase, and Consumption Upgrade: Evidence from College Expansion in China** (with [Binkai Chen](http://econ.cufe.edu.cn/info/1032/3423.htm), [Wei Huang](https://sites.google.com/view/huangweipku/home), Yankun Kang, and Qi Luo).
+### Publications
+**Interdependence dynamics of corporate equity and public real estate markets**, *Journal of European Real Estate Research*, 2021, forthcoming (with Kim Hiang Liow)
 
+**Frequency volatility connectedness and market integration in international real estate investment trusts**, *Finance Research Letters*, 2021, 102174 (with Kim Hiang Liow)
 
-### Pre-doctoral Publications
-**Are Cities Losing Their Vitality? Exploring Human Capital in Chinese Cities**, *Habitat International* 96 (2020): 102104.
+**Volatility connectivity and market dependence across major financial markets in China economy**, *Quantitative Finance and Economics*, 2021, 5(3): 397-420 (with Kim Hiang Liow and Xiaoxia Zhou)
 
-**Human Capital, Housing Prices, and Regional Economic Development: Will “Vying for Talent” through Policy Succeed?**, *Cities* 98 (2020): 102577.
+**Dynamic interdependence of ASEAN5 with G5 stock markets**, *Emerging Markets Review*, 2020, 45: 100740 (with Kim Hiang Liow)
 
-**Human Capital and International Capital Flows: Evidence from China**, *International Regional Science Review* (2021): 0160017621989421.
+**Market Integration among the US and Asian Real Estate Investment Trusts in Crisis Times**, *International Real Estate Review*, 2019, 22(4): 463-512. (with Kim Hiang Liow)
+
+**Relationship between the United States Housing and Stock Markets: Some evidence from wavelet analysis**, *The North American Journal of Economics and Finance*, 2019, 50: 101033. (with Kim Hiang Liow and Yuting Huang)
+
+**Who Influences the Asian–Pacific Real Estate Markets: The US, Japan or China?**, *China & World Economy*, 2019, 27(6): 50-78. (with Kim Hiang Liow and Yuting Huang)
