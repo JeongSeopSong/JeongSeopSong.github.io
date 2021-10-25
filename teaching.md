@@ -26,7 +26,9 @@ AY 2020/2021 Corporate Investment in Real Estate, TA for Prof. Liow Kim Hiang
 
 *Strengths*
 <img src="/assets/img/re1705(accounting).png" />
+
 *Comments*
+
 
 "patient and knowledgeable."
 
@@ -41,7 +43,9 @@ AY 2020/2021 Corporate Investment in Real Estate, TA for Prof. Liow Kim Hiang
 
 *Strengths*
 <img src="/assets/img/re1704.png" />
+
 *Comments*
+
 
 "Great and very effective in conveying point across."
 
