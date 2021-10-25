@@ -23,6 +23,7 @@ AY 2020/2021 Corporate Investment in Real Estate, TA for Prof. Liow Kim Hiang
 ### Students' Feedbacks
 
 **Tutorial for Real Estate Finance and Accounting AY 2018/2019**
+
 *Strengths*
 <img src="/assets/img/re1705(accounting).png" />
 *Comments*
@@ -36,6 +37,7 @@ AY 2020/2021 Corporate Investment in Real Estate, TA for Prof. Liow Kim Hiang
 <br> 
  
 **Tutorial for Principle of Real Estate Economics AY 2019/2020**
+
 *Strengths*
 <img src="/assets/img/re1704.png" />
 *Comments*
