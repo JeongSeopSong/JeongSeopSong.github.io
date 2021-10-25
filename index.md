@@ -17,7 +17,7 @@ I am available for virtual interviews on the 2021-2022 job market.</font>
 
 <br>
 
-[CV](https://yinghaopan.com/cv/) &nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=d8OG-4UAAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp;  [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2959716) &nbsp;&nbsp;&nbsp;&nbsp;  [ORCID](https://orcid.org/0000-0002-4363-9619) 
+[CV](https://www.dropbox.com/s/3d6qjhr4mxe8td8/CV_Jeongseop%20Song.pdf?dl=0) &nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com.sg/citations?user=1QVD5_0AAAAJ&hl=en) 
 
 
 <br>
