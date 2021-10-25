@@ -8,12 +8,12 @@ sidebar_sort_order: 1
     <meta name="baidu-site-verification" content="code-7MOMoWqbbY" />
   </head>
 
-## <center> Yinghao Pan (潘颖豪) </center>
+## <center> Jeongseop Song (송정섭) </center>
 
 ### Bio
-<font size="4">I am a fifth-year Ph.D. candidate from the Business School at the National University of Singapore. My research fields include public economics, household finance and Chinese economy. Prior to the graduate school, I obtained bachelor&rsquo;s degree in management and double degree in economics from Renmin University of China.<br>
+<font size="4">I am a PhD job market candidate in the Business School at the National University of Singapore. My research interests focuses on real estate finance and economics, geography of finance, and investments. Prior to joining the PhD program, I obtained bachelor&rsquo;s degree in real estate from Konkuk University in Republic of Korea.<br>
 	<br>
-I am on the 2021-2022 academic job market and available for virtual interviews.</font>
+I am available for virtual interviews on the 2021-2022 job market.</font>
 
 <br>
 
