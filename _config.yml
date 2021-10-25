@@ -18,7 +18,7 @@ author:          Jeongseop Song
 name:           'Jeongseop Song'
 email:           <a href="mailto:js.song@u.nus.edu" title="js.song@u.nus.edu">js.song@u.nus.edu</a>
 
-paginate:         5
+paginate:         4
 paginate_path:    #'/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 google_analytics:   G-QNGBJ14GNY
