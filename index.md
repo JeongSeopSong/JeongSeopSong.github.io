@@ -5,7 +5,7 @@ sidebar_link: true
 sidebar_sort_order: 1
 ---
   <head>
-    <meta name="google-site-verification" content="google9a46cb008e269001" />
+    <meta name="google-site-verification" content="google9a46cb008e269001.html" />
   </head>
 ## Jeongseop Song ##
 <br>
