@@ -4,11 +4,8 @@ title: Home
 sidebar_link: true
 sidebar_sort_order: 1
 ---
-   <head>
-    <meta name="baidu-site-verification" content="code-7MOMoWqbbY" />
-  </head>
-
-## Jeongseop Song (송정섭)
+   
+## Jeongseop Song (송정섭) ##
 
 <font size="4">I am a PhD job market candidate in the Business School at the National University of Singapore. My research interests focuses on real estate finance and economics, geography of finance, and investments. Prior to joining the PhD program, I obtained bachelor&rsquo;s degree in real estate from Konkuk University in Republic of Korea.<br>
 	<br>
