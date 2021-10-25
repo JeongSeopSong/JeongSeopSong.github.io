@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Jeongseop Song
 tagline:          '송정섭'
 description:      'Ph.D. Candidate </br> National University of Singapore'
-url:              https://jssong.github.io
+url:              https://JeongSeopSong.github.io
 baseurl:          #'/blog'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
