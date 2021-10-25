@@ -11319,6 +11319,7 @@ p.lead {
 #sideNav {
   padding-left: 1rem;
   padding-right: 1rem;
+  background-color:#312E2E
 }
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
