@@ -7,7 +7,7 @@ sidebar_sort_order: 1
    
 ## Jeongseop Song ##
 <br>
-<font size="4"; family=serif>I am a PhD job market candidate in the Business School at the National University of Singapore. My main research interests are real estate finance and economics, corporate finance, and investments. Prior to joining the PhD program, I obtained bachelor&rsquo;s degree in real estate from Konkuk University. I am available for virtual interviews on the 2021-2022 job market.</font>
+<font size="4"; style=font-family:serif>I am a PhD job market candidate in the Business School at the National University of Singapore. My main research interests are real estate finance and economics, corporate finance, and investments. Prior to joining the PhD program, I obtained bachelor&rsquo;s degree in real estate from Konkuk University. I am available for virtual interviews on the 2021-2022 job market.</font>
 
 <br>
 
