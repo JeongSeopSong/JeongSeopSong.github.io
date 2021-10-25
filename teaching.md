@@ -18,7 +18,6 @@ AY 2019/2020 Corporate Finance for Real Estate, TA for Prof. Liow Kim Hiang
 AY 2020/2021 Corporate Investment in Real Estate, TA for Prof. Liow Kim Hiang
 
 <br>
-<br> 
 
 ### Teaching Evaluations
 **■ Tutorial for Real Estate Finance and Accounting AY 2018/2019**
